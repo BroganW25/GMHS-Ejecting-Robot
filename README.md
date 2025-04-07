@@ -12,4 +12,5 @@ Arduino IDE 2.3.5
 ## Steps
 
 ### 1.
+Make sure you have the Arduino IDE Software installed if you dont you can install it from (here)[https://www.arduino.cc/en/software#ide]
 
